@@ -43,7 +43,7 @@ The `blood_donors.sql` file contains the schema for the donors table along with 
 
 1. **Clone the Repository**:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/m0hit5/Blood_Donor_System.git>
     ```
 
 2. **Import the Project into Eclipse**:
